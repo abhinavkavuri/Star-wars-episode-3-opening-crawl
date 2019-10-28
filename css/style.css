@@ -6,7 +6,7 @@ body {
   font: 700 1em "News Cycle", sans-serif;
   letter-spacing: .15em;
   color: #ff6;
-  background-image:url("https://i.ytimg.com/vi/p93ofnHVeyI/maxresdefault.jpg");  
+  background-image:url(http://jackxmorris.com/img/star-wars-crawl/background.png);  
   overflow: hidden;
   margin: 0;
 }
